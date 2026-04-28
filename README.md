@@ -1,4 +1,4 @@
-# 📊 Calculadora de Média Acadêmica
+# 📊 Calculadora de Média FIAP
 
 Este projeto foi desenvolvido como um trabalho solicitado em aula, com o objetivo de aplicar conceitos básicos de programação em Python, incluindo entrada de dados, estruturas condicionais, listas e cálculos de média ponderada.
 
