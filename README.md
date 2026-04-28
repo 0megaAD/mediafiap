@@ -97,5 +97,5 @@ Este projeto tem como foco reforçar:
 
 ## 👨‍💻 Autores
 
-Rm568831 - Roger Spina
-Rm571258 - Rian Brandao
+- Rm568831 - Roger Spina
+- Rm571258 - Rian Brandao
