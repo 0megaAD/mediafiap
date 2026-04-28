@@ -95,6 +95,7 @@ Este projeto tem como foco reforçar:
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-Desenvolvido como atividade acadêmica.
+Rm568831 - Roger Spina
+Rm571258 - Rian Brandao
